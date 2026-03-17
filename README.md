@@ -1,6 +1,9 @@
+> [!CAUTION]
+> The Conversational Interfaces Community Group has closed on 2023-12-07.
+
 # Dialogue Manager Script (DMS)
 * Final W3C Report: https://www.w3.org/2020/04/dms/
-* Latest editor's draft: https://w3c.github.io/dms
+* Latest editor's draft: https://w3c-cg.github.io/dms
 * Try it online: https://conversational-interfaces.github.io/dms-scratchpad/
 
 # About
